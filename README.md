@@ -30,7 +30,7 @@ source venv/bin/activate
 pip install numpy pandas matplotlib seaborn fpdf2
 
 5. Подготовте файл:
-sales.csv  с колонами product и amountю
+sales.csv  с колонами product и amount.
 Пример структуры:
 product,amount
 Product A,100
